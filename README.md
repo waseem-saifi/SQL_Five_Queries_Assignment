@@ -4,5 +4,5 @@ Question 2: Find out employees’ salary percentage within his/her department. <
 Question 3: Group all employees’ first_name within their department.<br>
 Question 4: Find out top 3 employees salary earners within each group. <br>
 Question 5: Sum inventory based on brands in their dedicated columns but in single row.
-
-
+Question 6: Cricket tournament win and lose result.
+Question 7: Lift maximum capacity and passengers query.
